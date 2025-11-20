@@ -15,12 +15,15 @@
 
 
 # Tabulation
+![WhatsApp Image 2025-11-20 at 18 32 22_6667641f](https://github.com/user-attachments/assets/967a1246-beef-4ad4-a9e2-40b3f0035350)
 
 
 # Graph
+![WhatsApp Image 2025-11-20 at 18 33 04_ff598c5c](https://github.com/user-attachments/assets/1218f5c4-850b-48af-872c-083b4d36b263)
 
 
 # Sample images 
+![WhatsApp Image 2025-11-17 at 09 22 49_173f6b00](https://github.com/user-attachments/assets/16c20927-052e-4405-a0d3-746e7b309fe8)
 
 
 ### **Result**
@@ -42,6 +45,3 @@ The frequency response of the current series feedback amplifier was studied. It 
 ---
 
 **End of Experiment**
-
-
-
